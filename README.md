@@ -5,7 +5,7 @@ Tools for explain, translate or summarize [DE-9IM](http://en.wikipedia.org/wiki/
 
 See also [motivations](http://gis.stackexchange.com/q/26124/7505).
 
-The comments into the the [SQL code](postgis-st-relate-summary_v1_3.sql) have examples of use.
+The comments into the the [SQL code](postgis-st-relate-summary.sql) have examples of use.
 
 
 
